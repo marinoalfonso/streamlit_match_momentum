@@ -1,10 +1,10 @@
-# 📊 Match Momentum – RCI Viewer  
+# Match Momentum – RCI Viewer  
 Web-app interattiva sviluppata in **Python + Streamlit** per visualizzare il **Match Momentum** delle partite di calcio, basato sul modello di **Real Control Index** (RCI). 
 L'RCI è un indice che misura il controllo reale delle squadre nei match, che ha come base il modello di xT e determinati eventi adeguatamente pesati.
 
 ---
 
-## 🔍 Obiettivo del progetto
+## Obiettivo del progetto
 
 L’app consente di:
 
@@ -18,5 +18,16 @@ Il modello è pensato come **alternativa interpretabile** ai vari sistemi di Mat
 
 ---
 
-## 🧠 Struttura del progetto
+## Struttura del progetto
+
+---
+
+## Come avviare localmente
+pip install -r requirements.txt
+
+streamlit run app.py
+
+E l'interfaccia sarà disponibile su http://localhost:8501
+
+
 
