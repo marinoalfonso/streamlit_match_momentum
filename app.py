@@ -77,6 +77,7 @@ ball_img = load_ball_icon()
 # =====================================
 
 st.title("Match Momentum | RCI Viewer")
+st.subheader("Wyscout data 2017/2018")
 
 # Filtro per campionato (se disponibile)
 if "league" in df_matches.columns:
