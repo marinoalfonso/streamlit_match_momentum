@@ -8,13 +8,13 @@ from scipy.ndimage import gaussian_filter1d
 from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 
 
-font_path_regular = '/Users/alfonsomarino/Desktop/Teko/static/Teko-Regular.ttf'
+font_path_regular = "fonts/Teko-Regular.ttf"
 font_normal = font_manager.FontProperties(fname=font_path_regular)
 
-font_path_med = "/Users/alfonsomarino/Desktop/Teko/static/Teko-Medium.ttf"
+font_path_med = "fonts/Teko-Medium.ttf"
 font_med = font_manager.FontProperties(fname = font_path_med)
 
-font_path_semi = "/Users/alfonsomarino/Desktop/Teko/static/Teko-SemiBold.ttf"
+font_path_semi = "fonts/Teko-SemiBold.ttf"
 font_semi = font_manager.FontProperties(fname = font_path_semi)
 
 # =====================================
