@@ -226,8 +226,8 @@ def plot_momentum(data):
 
     fig, ax = plt.subplots(figsize=(12, 7), dpi = 150)
     
-    ax.set_facecolor("#FAFAFA")
-    fig.set_facecolor("#FAFAFA")
+    ax.set_facecolor("None")
+    fig.set_facecolor("None")
 
     # Curva momentum
     ax.plot(
