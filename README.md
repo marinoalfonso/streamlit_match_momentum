@@ -121,6 +121,9 @@ The **Relative Control Index** is a minute-by-minute metric that quantifies whic
 The raw signal is smoothed with a Gaussian filter — the sigma parameter is exposed to the user via the slider, allowing different levels of detail.
 
 > Data source: Wyscout open event data, seasons 2017/2018.
+Pappalardo, Luca; Massucco, Emanuele (2019): Soccer match event dataset. figshare. Collection.
+https://doi.org/10.6084/m9.figshare.c.4415000.v5
+
 
 ---
 
@@ -142,6 +145,4 @@ The raw signal is smoothed with a Gaussian filter — the sigma parameter is exp
 
 MIT License — see [LICENSE](LICENSE).  
 Wyscout data is used under their open data license for academic and non-commercial research.
-- Pappalardo, Luca; Massucco, Emanuele (2019): Soccer match event dataset. figshare. Collection.
-https://doi.org/10.6084/m9.figshare.c.4415000.v5
 
